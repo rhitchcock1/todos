@@ -1,3 +1,5 @@
 To Do List
 -pass code challenge
 -phase-1 project
+check that its all working
+maybe? 
